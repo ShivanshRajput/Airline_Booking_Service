@@ -1,5 +1,5 @@
 const express = require('express');
-const router = express.router();
+const router = express.Router();
 
 const v1ApiRoutes = require('./v1/index');
 
